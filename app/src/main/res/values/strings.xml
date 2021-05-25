@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">App Toan Cau</string>
+    <string name="text_TieuDe" tools:ignore="DuplicateDefinition">Infomation Form</string>
+    <string name="hint_HoTen">Input full name</string>
+    <string name="hint_Email">Input email</string>
+    <string name="hint_SDT">Input phone number</string>
+    <string name="text_XacNhan">Confim</string>
+    <string name="text_ChaoBan">Hello</string>
+    <string name="text_Email">Email</string>
+    <string name="text_SoDT">Phone number</string>
+
+</resources>
